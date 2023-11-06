@@ -41,7 +41,7 @@
             label = "Lower";
             bindings = <
 &kp TILDE     &kp F1         &kp F2     &kp F3         &kp F4         &kp F5                                 &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans         &trans            &kp F10               &kp BACKSPACE
-&kp LA(TAB)   &kp LG(LS(S))  &trans     &trans         &kp LC(LS(Z))  &trans                                 &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &trans         &trans            &kp PLUS              &kp MINUS
+&kp LA(TAB)   &kp LG(LS(S))  &trans     &trans         &kp LC(LS(Z))  &trans                                 &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LC(I)      &trans            &kp PLUS              &kp MINUS
 &kp CAPS      &kp LC(A)      &kp LC(S)  &kp LC(LA(V))  &kp LC(F)      &kp LC(LA(V))                          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans         &trans            &kp KP_MULTIPLY       &kp SLASH
 &kp LEFT_ALT  &kp LC(Z)      &kp LC(X)  &kp LC(C)      &kp LC(V)      &kp LC(B)      &trans       &trans     &kp UNDERSCORE        &kp MINUS              &kp LESS_THAN  &kp GREATER_THAN  &kp NON_US_BACKSLASH  &kp PIPE
                                         &trans         &trans         &trans         &kp EQUAL    &kp EQUAL  &kp COLON             &trans                 &trans
