@@ -42,7 +42,7 @@
             bindings = <
 &kp TILDE     &kp F1         &kp F2     &kp F3         &kp F4         &kp F5                                 &kp LEFT_BRACE        &kp RIGHT_BRACE        &trans         &trans            &kp F10               &kp BACKSPACE
 &kp LA(TAB)   &kp LG(LS(S))  &trans     &trans         &kp LC(LS(Z))  &trans                                 &kp LEFT_BRACKET      &kp RIGHT_BRACKET      &kp LC(I)      &trans            &kp PLUS              &kp MINUS
-&kp CAPS      &kp LC(A)      &kp LC(S)  &kp LC(LA(V))  &kp LC(F)      &kp LC(LA(V))                          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans         &trans            &kp KP_MULTIPLY       &kp SLASH
+&kp CAPS      &kp LC(A)      &kp LC(S)  &kp LC(LA(V))  &kp LC(F)      &kp LC(LA(V))                          &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &trans         &trans            &kp KP_MULTIPLY       &kp GRAVE
 &kp LEFT_ALT  &kp LC(Z)      &kp LC(X)  &kp LC(C)      &kp LC(V)      &kp LC(B)      &trans       &trans     &kp UNDERSCORE        &kp MINUS              &kp LESS_THAN  &kp GREATER_THAN  &kp NON_US_BACKSLASH  &kp PIPE
                                         &trans         &trans         &trans         &kp EQUAL    &kp EQUAL  &kp COLON             &trans                 &trans
             >;
@@ -60,7 +60,7 @@
             bindings = <
 &kp TILDE  &kp F11  &kp F12  &trans       &trans         &bt BT_CLR                       &kp F6  &kp F7       &kp F8          &kp F9           &kp F10     &kp BACKSPACE
 &kp GRAVE  &trans   &trans   &trans       &trans         &trans                           &trans  &kp PAGE_UP  &kp UP_ARROW    &kp PAGE_DOWN    &kp INSERT  &kp DELETE
-&trans     &trans   &trans   &trans       &trans         &trans                           &trans  &kp LEFT     &kp DOWN        &kp RIGHT_ARROW  &trans      &trans
+&trans     &trans   &trans   &trans       &trans         &trans                           &trans  &kp LEFT     &kp DOWN        &kp RIGHT_ARROW  &trans      &kp GRAVE
 &trans     &trans   &trans   &kp LC(INS)  &kp LC(LS(V))  &trans      &trans       &trans  &trans  &kp HOME     &kp DOWN_ARROW  &kp END          &kp RBKT    &kp BSLH
                              &trans       &trans         &trans      &kp EQUAL    &trans  &trans  &trans       &trans
             >;
